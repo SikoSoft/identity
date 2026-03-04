@@ -1,5 +1,5 @@
 {
-  "name": "identity",
+  "name": "@ss/identity",
   "version": "1.0.0",
   "description": "Identity library for NodeJS apps",
   "main": "dist/index.js",
